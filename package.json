@@ -1,0 +1,24 @@
+{
+  "name": "message-channel-coms",
+  "version": "0.0.1",
+  "description": "Provides simple channel communications over Message Event messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ste2425/MessageChannel.git"
+  },
+  "keywords": [
+    "postMessage",
+    "MessageEvent",
+    "channels"
+  ],
+  "author": "Stephen Cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ste2425/MessageChannel/issues"
+  },
+  "homepage": "https://github.com/ste2425/MessageChannel#readme"
+}
